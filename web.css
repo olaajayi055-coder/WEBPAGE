@@ -10,6 +10,7 @@
             line-height: 1.6;
             color: #333;
             background-color: #c7dcc8;
+            
         }
         
         
@@ -56,12 +57,6 @@
             font-size: 18px;
         }
         
-        .logo-subtext {
-            color: #ccc;
-            font-size: 12px;
-            margin-top: 2px;
-           
-        }
         
         nav ul {
             display: flex;
@@ -295,7 +290,7 @@
             display: block;
         }
 
-                /* Team Section */
+                
         .team-section {
             padding: 60px 0;
         }
@@ -311,7 +306,7 @@
             display: flex;
             justify-content: space-between;
             gap: 20px;
-            flex-wrap: wrap;
+            
         }
 
         .team-member {
@@ -320,8 +315,9 @@
             padding: 20px;
             text-align: center;
             flex: 1;
-            min-width: 250px;
+            min-width: 100px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            
         }
 
         .member-photo img {
